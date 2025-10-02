@@ -8,7 +8,6 @@ This repository contains notes and practice exercises for learning key concepts 
 - Learned Git basics: staging, commits, push, pull, merge.
 - Understood branching strategies: `main`, `dev`, `feature/*`.
 - Practiced version control and collaboration workflows using GitHub Desktop.
-- Learned how Git helps manage multiple contributors, track changes, and maintain version history.
 
 ### 2. FloCard & Tree Planters
 - FloCard: Digital business cards that reduce paper waste and improve networking efficiency.
